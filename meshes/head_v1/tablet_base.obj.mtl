@@ -1,0 +1,30 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v3.2.0)
+
+newmtl display
+Kd 1 1 1
+Ka 0 0 0
+Ks 0.25 0.25 0.25
+Ke 0 0 0
+Ns 50
+illum 2
+map_Kd display.png
+
+newmtl microphone
+Kd 1 1 1
+Ka 0 0 0
+Ks 0.015625 0.015625 0.015625
+Ke 0 0 0
+Ns 50
+illum 2
+map_Kd microphone.png
+
+newmtl tablet_base
+Kd 1 1 1
+Ka 1 1 1
+Ks 0.125 0.125 0.125
+Ke 0 0 0
+Ns 50
+illum 2
+map_Kd gray.png
+
