@@ -12,7 +12,7 @@
   </asset>
   <library_images>
     <image id="white_png_002" name="white_png_002">
-      <init_from>white.png.002.png</init_from>
+      <init_from>white.png</init_from>
     </image>
     <image id="white_png" name="white_png">
       <init_from>white.png</init_from>

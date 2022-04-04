@@ -15,7 +15,7 @@
       <init_from>white.png</init_from>
     </image>
     <image id="gray_png_001" name="gray_png_001">
-      <init_from>gray.png.001.png</init_from>
+      <init_from>gray.png</init_from>
     </image>
     <image id="gray_png" name="gray_png">
       <init_from>gray.png</init_from>
