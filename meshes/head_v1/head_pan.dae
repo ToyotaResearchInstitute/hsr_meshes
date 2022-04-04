@@ -12,7 +12,7 @@
   </asset>
   <library_images>
     <image id="white_png" name="white_png">
-      <init_from>/home/yoshimi_iyoda_za/work_robot_model/head_pan/white.png</init_from>
+      <init_from>white.png</init_from>
     </image>
     <image id="white" name="white">
       <init_from>white.png</init_from>
